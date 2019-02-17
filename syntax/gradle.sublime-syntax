@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: Gradle
+file_extensions:
+  - gradle
+  - groove.gradle
+scope: source.gradle, source.groovy.gradle
+contexts:
+  main:
+    - match: ""

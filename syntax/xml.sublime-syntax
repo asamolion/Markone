@@ -1,0 +1,9 @@
+%YAML 1.2
+---
+name: XML
+file_extensions:
+  - xml
+scope: text.xml
+contexts:
+  main:
+    - match: ""

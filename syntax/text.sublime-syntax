@@ -1,0 +1,9 @@
+%YAML 1.2
+---
+name: Text
+file_extensions:
+  - txt
+scope: text
+contexts:
+  main:
+    - match: ""

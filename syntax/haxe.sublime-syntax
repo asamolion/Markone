@@ -1,0 +1,9 @@
+%YAML 1.2
+---
+name: Haxe
+file_extensions:
+  - hx
+scope: source.haxe
+contexts:
+  main:
+    - match: ""

@@ -1,0 +1,9 @@
+%YAML 1.2
+---
+name: Matlab
+file_extensions:
+  - m
+scope: source.matlab
+contexts:
+  main:
+    - match: ""

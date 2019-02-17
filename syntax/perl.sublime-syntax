@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+name: Perl
+file_extensions:
+  - cgi
+  - pl
+  - p6
+scope: source.perl
+contexts:
+  main:
+    - match: ""

@@ -1,0 +1,9 @@
+%YAML 1.2
+---
+name: Stylus
+file_extensions:
+  - stylus
+scope: source.stylus
+contexts:
+  main:
+    - match: ""

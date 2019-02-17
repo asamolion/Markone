@@ -1,0 +1,9 @@
+%YAML 1.2
+---
+name: Kotlin
+file_extensions:
+  - kt
+scope: source.kotlin
+contexts:
+  main:
+    - match: ""

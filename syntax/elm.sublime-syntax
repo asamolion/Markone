@@ -1,0 +1,9 @@
+%YAML 1.2
+---
+name: Elm
+file_extensions:
+  - elm
+scope: source.elm
+contexts:
+  main:
+    - match: ""

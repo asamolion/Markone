@@ -1,0 +1,9 @@
+%YAML 1.2
+---
+name: Swift
+file_extensions:
+  - swift
+scope: source.swift
+contexts:
+  main:
+    - match: ""

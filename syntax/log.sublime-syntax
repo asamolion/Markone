@@ -1,0 +1,9 @@
+%YAML 1.2
+---
+name: Log
+file_extensions:
+  - log
+scope: text.plain.log
+contexts:
+  main:
+    - match: ""

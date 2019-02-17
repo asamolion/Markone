@@ -1,0 +1,18 @@
+Supporting the following, (especially file icons) is on the todo list for now.
+
+Plain text - text.plain
+ESlint
+editorconfig - see file_type_git.tmPreferences
+gruntfile
+gulpfile
+jsx - Babel syntax package interferes with it
+circleci
+lisp
+Procfile
+shell
+pdf
+stylelint
+sublime-settings
+sublime-*
+svg
+webpack

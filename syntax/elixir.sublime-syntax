@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: ESLint
+file_extensions:
+  - ex
+  - exs
+scope: source.elixir, text.html.elixir
+contexts:
+  main:
+    - match: ""

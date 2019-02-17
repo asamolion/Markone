@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: Pug
+file_extensions:
+  - pug
+  - jade
+scope: text.jade, text.pug, source.json.puglint, source.js.puglint
+contexts:
+  main:
+    - match: ""

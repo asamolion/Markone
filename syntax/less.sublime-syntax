@@ -1,0 +1,9 @@
+%YAML 1.2
+---
+name: Less
+file_extensions:
+  - less
+scope: source.less, source.css.less
+contexts:
+  main:
+    - match: ""

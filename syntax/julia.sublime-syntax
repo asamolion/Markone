@@ -1,0 +1,9 @@
+%YAML 1.2
+---
+name: Julia
+file_extensions:
+  - jl
+scope: source.julia
+contexts:
+  main:
+    - match: ""
