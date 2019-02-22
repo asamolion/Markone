@@ -3,6 +3,7 @@
 name: XML
 file_extensions:
   - xml
+  - tmPreferences
 scope: text.xml
 contexts:
   main:
